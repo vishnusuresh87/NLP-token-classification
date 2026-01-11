@@ -1,6 +1,11 @@
 # NLP-token-classification
 NLP token classification on biomedical document
 
+Deployed in streamlit app
+https://nlp-token-classification-biomedical-ner.streamlit.app/
+
+
+
 Fine-Tuning PubMedBERT for Biomedical Named Entity Recognition on PLOD-CW-25
 
 Biomedical literature contains dense and specialized terminology that is difficult to process at scale using manual curation. Automatic extraction of entities such as activities (e.g., interventions, procedures) and life forms (e.g., organisms, species) is critical for downstream tasks including knowledge graph construction, evidence synthesis, and clinical decision support.
